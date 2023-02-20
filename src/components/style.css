@@ -1,0 +1,9 @@
+tr:hover .bton{
+          display: block;
+}
+.bton{
+          display: none;
+}
+table{
+          background-color: blue;
+}
